@@ -1,4 +1,8 @@
 # Electrical_Infra_Projects_Playground
+https://claude.ai/public/artifacts/32ad7d37-ea18-4f5c-b98a-0b3d30623291
+
+<iframe src="https://claude.site/public/artifacts/32ad7d37-ea18-4f5c-b98a-0b3d30623291/embed" title="Claude Artifact" width="100%" height="600" frameborder="0" allow="clipboard-write" allowfullscreen></iframe>
+
 
 ```plaintext
 
